@@ -1,0 +1,27 @@
+{
+	"name": "demo-react-webpack",
+	"version": "1.0.0",
+	"description": "webpack demo with react",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Manuel-bitcode/demo-react-webpack.git"
+	},
+	"keywords": [
+		"react",
+		"webpack"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Manuel-bitcode/demo-react-webpack/issues"
+	},
+	"homepage": "https://github.com/Manuel-bitcode/demo-react-webpack#readme",
+	"dependencies": {
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	}
+}
